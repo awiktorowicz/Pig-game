@@ -24,3 +24,5 @@ The game ends when a player reaches the predetermined winning score. The player 
 
 ## Thanks for Playing!
 We hope you enjoy playing Pig Game as much as we enjoyed creating it. Happy rolling!
+
+Part of Jonas Schmedtmann course.
